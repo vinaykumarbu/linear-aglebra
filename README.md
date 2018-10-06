@@ -1,2 +1,2 @@
 # linear-aglebra
-Pyhton for liner algebra 
+Python for liner algebra 
